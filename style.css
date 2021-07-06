@@ -32,6 +32,9 @@ h1{
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
     }
+    .mid-secimg{
+        height: 600px;
+    }
 .food-item{
     box-shadow: 10px 10px 40px gray;
     width: 20%;
